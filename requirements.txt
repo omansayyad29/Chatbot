@@ -1,2 +1,2 @@
-googlegenai
+google-generativeai
 streamlit
